@@ -57,7 +57,7 @@ function App() {
           </CardContent>
         </Card>
       </div>
-      <Toaster />
+      <Toaster richColors />
     </>
   )
 }
